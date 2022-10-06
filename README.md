@@ -46,3 +46,17 @@
   <---------------------------------------------------------------------->
   
 </sub>
+   
+# Assets
+   
+<sub>
+ 
+ - Kenney Piratepack
+ 
+ - Casual Game Sounds
+ 
+ - Nav Mesh Plus
+ 
+ - Pirate Music Pack
+ 
+</sub>
