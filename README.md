@@ -12,6 +12,9 @@
  
  
 - Extract the zip
+
+
+- Find the "KennyPirate" folder
  
  
 - Through Unity open the project folder
@@ -24,6 +27,9 @@
  
  
 - In the terminal add the command "git clone " + the copied link
+
+
+- Find the "KennyPirate" folder
  
  
 - Through the Unity hub open the project folder
